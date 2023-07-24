@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1111834186521780274/1131017812303958067/IMG_0776.jpg);
 
   /*
     Change your friends icon image position
@@ -78,7 +78,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: none;
 
   /*
     Video / Screen share buttons
